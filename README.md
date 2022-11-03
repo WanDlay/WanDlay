@@ -5,7 +5,7 @@
 <div>
 <br><br>
 <div align="center">
-<a href="https://github.com/sinan2245">
+<a href="https://github.com/WanDlay">
   <img align="center" alt="Mon Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
 </a>
 </div>

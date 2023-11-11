@@ -20,7 +20,6 @@
  
  <h4><b><samp>Tools and Technologies</samp></b></h4>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Nodejs-62b059?style=flat-square&logo=Node.js&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 
